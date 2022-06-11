@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<UiTaskEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info id="1000">
+		<startEvent>-8000</startEvent>
+		<endEvent>-1000</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>240;240;0</textpos>
+		<content>당신의 별호를 입력하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1001">
+		<startEvent>-8001</startEvent>
+		<endEvent>-1001</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>0;-186;0</textpos>
+		<content>당신이 선택할 장수의 성별을 고르십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1002">
+		<startEvent>-8002</startEvent>
+		<endEvent>-1002</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>315;30;0</textpos>
+		<content>장수의 인물을 선택하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1003">
+		<startEvent>-8003</startEvent>
+		<endEvent>-1003</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>270;-235;0</textpos>
+		<content>단추를 눌러 등록을 완성하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="8003">
+		<startEvent>-8013</startEvent>
+		<endEvent>-1013</endEvent>
+		<textpath>Center/xuanzhi</textpath>
+		<textpos>0;95;0</textpos>
+		<isshield>1</isshield>
+	</info>
+	<info id="1004">
+		<startEvent>-8004</startEvent>
+		<endEvent>-1004</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>-16;-240;0</textpos>
+		<content>적본진이 가까이에 있으니 솜씨를 보이십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1005">
+		<startEvent>-8005</startEvent>
+		<endEvent>-1005</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>275;-140;0</textpos>
+		<content>단추를 눌러 방창조 및 가입을 진행하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1006">
+		<startEvent>-8006</startEvent>
+		<endEvent>-1006</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>-13;-95;0</textpos>
+		<content>초급전투장에서 전투방식을 선택하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1007">
+		<startEvent>-8007</startEvent>
+		<endEvent>-1007</endEvent>
+		<textpath>Center/character0</textpath>
+		<textpos>-5;-203;0</textpos>
+		<content>방을 창조하고 경기준비를 하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1008">
+		<startEvent>-8008</startEvent>
+		<endEvent>-1008</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>-217;-185;0</textpos>
+		<content>되돌이단추를 눌러 기본화면으로 가십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1009">
+		<startEvent>-8009</startEvent>
+		<endEvent>-1009</endEvent>
+		<textpath>Center/character</textpath>
+		<textpos>-60;80;0</textpos>
+		<content>전장에서 적들을 찾아 공격하십시오.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="1010">
+		<startEvent>-8010</startEvent>
+		<endEvent>-1010</endEvent>
+		<textpath>Center/character0</textpath>
+		<textpos>180;-185;0</textpos>
+		<content>준비되였습니다.</content>
+		<isshield>1</isshield>
+	</info>
+	<info id="8001">
+		<startEvent>-8011</startEvent>
+		<endEvent>-1011</endEvent>
+		<textpath>Center/character7</textpath>
+		<textpos>336;270;0</textpos>
+		<content>장수를 선택하여 전투를 시작하십시오.</content>
+		<isshield>0</isshield>
+	</info>
+	<info id="8002">
+		<startEvent>-8012</startEvent>
+		<endEvent>-1012</endEvent>
+		<textpath>Center/character10</textpath>
+		<textpos>275;-208;0</textpos>
+		<content>확인단추를 눌러 장수를 확정하십시오.</content>
+		<isshield>0</isshield>
+	</info>
+</UiTaskEvent>

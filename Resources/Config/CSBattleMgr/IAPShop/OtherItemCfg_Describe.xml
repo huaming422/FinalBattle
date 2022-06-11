@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OtherItemCfg_Describe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info EffectID="1001">
+		<EffectDescribe>Fighting settlement gold coins+{0}%</EffectDescribe>
+	</info>
+	<info EffectID="1002">
+		<EffectDescribe>Combat settlement experience+{0}%</EffectDescribe>
+	</info>
+	<info EffectID="1003">
+		<EffectDescribe>Unlock all heroes({0}일)</EffectDescribe>
+	</info>
+	<info EffectID="1004">
+		<EffectDescribe>Unlock a hero({0}일)</EffectDescribe>
+	</info>
+	<info EffectID="1005">
+		<EffectDescribe>Used for refining{0}Level and below the runes</EffectDescribe>
+	</info>
+	<info EffectID="1006">
+		<EffectDescribe>increase{0}Rune page</EffectDescribe>
+	</info>
+</OtherItemCfg_Describe>

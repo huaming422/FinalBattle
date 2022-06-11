@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<MsgCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info id="8">
+		<content>당신은 경기를 주최하게 되였습니다.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="10">
+		<content>장수를 선택하십시오.</content>
+		<effect>5</effect>
+		<type>1</type>
+	</info>
+	<info id="-12">
+		<content>대상이 죽었습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-13">
+		<content>아군에게는 사용할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-14">
+		<content>목표가 정확하지 않습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-15">
+		<content>분노가 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-16">
+		<content>전송내용을 모두 기입하십시오.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="-65476">
+		<content>그런 사용자는 없습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-65492">
+		<content>알림번호가 틀립니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130762">
+		<content>동업자들이 아직 오락진행중에 있습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130766">
+		<content>가입이 실패하였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130767">
+		<content>오락이 시작되였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130771">
+		<content>보석점수가 부족합니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130773">
+		<content>다른 동업자들이 다 찼습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130774">
+		<content>성과적으로 추가되였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130775">
+		<content>전송되였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130776">
+		<content>선수들은 오락진행중에 있습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130777">
+		<content>사용자의 접속이 실패하였거나 없습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130788">
+		<content>암호를 입력하십시오.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130804">
+		<content>그 장수는 아직 구입하지 못하였습니다.</content>
+		<effect>5</effect>
+		<type>1</type>
+	</info>
+	<info id="-130812">
+		<content>죽으면 장비를 구입할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130813">
+		<content>죽으면 장비를 판매할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130814">
+		<content>이 기능을 반복하지 마십시오.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130820">
+		<content>상대방이 이미 당신의 금지목록에 올라있습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130821">
+		<content>상대방이 이미 당신의 동업자목록에 올라있습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130822">
+		<content>금지목록이 다 찼습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130823">
+		<content>동업자목록이 다 찼습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130825">
+		<content>특수병사들이 공격합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130826">
+		<content>전투가 시작됩니다.</content>
+		<effect>6</effect>
+		<type>1</type>
+	</info>
+	<info id="-130827">
+		<content>병사들이 공격하기 전까지는 15초 남았습니다.</content>
+		<effect>6</effect>
+		<type>1</type>
+	</info>
+	<info id="-130832">
+		<content>이 기능을 자주 사용하지 마십시오.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130861">
+		<content>이름에 잘못된 문자가 있습니다.</content>
+		<effect>2</effect>
+		<type>1</type>
+	</info>
+	<info id="-130872">
+		<content>인원수가 다 찼습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130879">
+		<content>팀의 보석점수가 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130880">
+		<content>무력화된 상태에서 특기(도술)를 사용할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130884">
+		<content>아군에게 이 특기를 사용할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130885">
+		<content>Silence에서 props을 사용할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130886">
+		<content>당신은 아직 목표가 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130887">
+		<content>props는 건설하는데 적합하지 못합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130888">
+		<content>무력화된 상태에서 props를 사용할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130889">
+		<content>목표가 정확하지 않습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130890">
+		<content>당신은 아직 목표가 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130891">
+		<content>특기(도술)가 재생되는중..</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130892">
+		<content>보석점수가 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130893">
+		<content>기력이 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130894">
+		<content>체력이 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130896">
+		<content>silence에서 특기를 사용할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130900">
+		<content>Props만 사용할수 있습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130901">
+		<content>병영의 수가 다르기때문에 오락을 시작할수 없습니다.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="-130902">
+		<content>금이 부족합니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130909">
+		<content>이 이름은 이미 존재합니다.</content>
+		<effect>2</effect>
+		<type>1</type>
+	</info>
+	<info id="-130916">
+		<content>Backpack가 다 찼습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130918">
+		<content>Props만 입력할수 있습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130920">
+		<content>보석이 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130922">
+		<content>장비가 사용준비중.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130934">
+		<content>이 오락은 시작되였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130935">
+		<content>부활(재생)시간이 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130936">
+		<content>금이 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130937">
+		<content>장수들이 죽었습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130943">
+		<content>분노가 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130944">
+		<content>분노가 폭발하였습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130950">
+		<content>흡수할수 있는 대상이 필요합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130956">
+		<content>그 대상은 흡수할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130958">
+		<content>보석점수가 부족합니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130959">
+		<content>같은 괴물은 하나만 흡수할수 있습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130960">
+		<content>더이상 흡수할수 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130961">
+		<content>3 혹은 그 이상 령혼을 흡수할수 있습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130969">
+		<content>대상이 사거리밖에 있습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-130977">
+		<content>이름을 입력하십시오.</content>
+		<effect>2</effect>
+		<type>1</type>
+	</info>
+	<info id="-130979">
+		<content>암호가 틀립니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-130998">
+		<content>사용자정보가 완성되지 못하였습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="-131006">
+		<content>지도가 아직 열리지 않았습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-131013">
+		<content>그 오락은 존재하지 않습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-131020">
+		<content>homeowner만이 오락을 시작할수 있습니다.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="-131021">
+		<content>선수가 아직 준비되지 않았습니다.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="-131032">
+		<content>오락에 들어가지 못하였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-131034">
+		<content>그 오락은 선수들이 찼습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-131035">
+		<content>그 지역에는 선수들이 있습니다.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="-131036">
+		<content>오락에 가입되였습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-131055">
+		<content>사용자가 탐색되지 않았습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="-131062">
+		<content>봉사기접속이 실패하였습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10000">
+		<content>반드시 별호를 입력하여야 합니다.</content>
+		<effect>2</effect>
+		<type>1</type>
+	</info>
+	<info id="10001">
+		<content>오락번호를 입력하십시오.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10002">
+		<content>준비중</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="10003">
+		<content>당신은 임의로 선택된 장수를 가지고 오락을 시작하게 됩니다.</content>
+		<effect>5</effect>
+		<type>1</type>
+	</info>
+	<info id="10004">
+		<content>당신은 아직 목표가 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10005">
+		<content>{0}적을 소멸하십시오.{1}</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10006">
+		<content>{0} 우리를 공격하십시오. {1}</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10007">
+		<content>{0} 죽이십시오.{1}</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10008">
+		<content>{0} 그것을 죽이십시오.{1}</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10009">
+		<content>{0} 이미 죽었습니다.{1} </content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10010">
+		<content>당신은 주최자가 되였습니다.</content>
+		<effect>4</effect>
+		<type>1</type>
+	</info>
+	<info id="10011">
+		<content>흡수기술이 없습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10012">
+		<content>장비를 선택하여 구입하십시오.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10013">
+		<content>장비를 선택하여 판매하십시오.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10014">
+		<content>Backpack 가 비였습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10015">
+		<content>당신은 아직 장수를 선택하지 않았습니다.</content>
+		<effect>5</effect>
+		<type>1</type>
+	</info>
+	<info id="10016">
+		<content>장비가 재생되는중.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10017">
+		<content>장비가 사용되지 못하였습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10018"/>
+	<info id="10019">
+		<content>3번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10020">
+		<content>4번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10021">
+		<content>5번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10022">
+		<content>6번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10023">
+		<content>7번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10024">
+		<content>8번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10025">
+		<content>9번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10026">
+		<content>10번 련속사살.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="10027">
+		<content>대화창을 선택하십시오.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10028">
+		<content>당신을 동업자로 추가할수 없습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10029">
+		<content>ID식별자 혹은 이름을 기입하십시오.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10030">
+		<content>추가실패</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10031">
+		<content>Purchase success</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10032">
+		<content>이름이 이미 존재합니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10033">
+		<content>초청할 동업자가 없습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10034">
+		<content>카드입력칸이 다 찼습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10035">
+		<content>카드입력칸이 해제되지 않았습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10036">
+		<content>결합성공</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10037">
+		<content>카드를 넣으십시오.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10038">
+		<content>The curl수준이 느립니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10039">
+		<content>개작성공</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10040">
+		<content>수정실패</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10041">
+		<content>대상을 선택하십시오.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10042">
+		<content>아직은 더 높은 급수의 결합이 없습니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="10043">
+		<content>좀 더 기다려야 합니다.</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="20001">
+		<content>선물{0}\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="20002">
+		<content>선물{0}*{1}\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21001">
+		<content>처음에 부활될때 보석소비를 감소시킵니다. {0}보석\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21002">
+		<content>부활(재생)수는 시간을 증가시킵니다.{0}시간\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21003">
+		<content>Queuing priority\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21004">
+		<content>전장경험증가{0}\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21005">
+		<content>장비는 매일 살수 있습니다.{0}시간\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21006">
+		<content>카드결합가격감소{0}\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21007">
+		<content>금강석으로 동전을 구입하면 추가동전을 얻습니다.{0}동전\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21008">
+		<content>장비이름은 자주보석입니다.(보시는것처럼)\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21009">
+		<content>중급추첨은 매일 진행합니다.{0}회\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="21010">
+		<content>상급추첨은 매일 진행합니다.{0}회\n</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40000">
+		<content>프로그람시작</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40001">
+		<content>정확히 내려졌습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40003">
+		<content>고리 창조</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40004">
+		<content>기본대면부로 돌아가기</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40005">
+		<content>되돌이</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40006">
+		<content>개인자료정보</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40007">
+		<content>하늘에로의 길</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40008">
+		<content>충진</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40009">
+		<content>오락에 빨리 접속</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40010">
+		<content>대면부 안내</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40011">
+		<content>안내항목을 선택하십시오.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40012">
+		<content>오락진입</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40013">
+		<content>오락창조</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40014">
+		<content>오락가입</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40015">
+		<content>자리교체</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40016">
+		<content>준비/시작</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40017">
+		<content>대본대면부로 돌아가기</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40018">
+		<content>장수선택</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40019">
+		<content>대면부안내를 끝마치겠습니다.</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40020">
+		<content>전장으로</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40021">
+		<content>안내절차</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40022">
+		<content>과제단계시작</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40023">
+		<content>과제단계끝</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40024">
+		<content>전투사상자</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40025">
+		<content>사용자급수갱신</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40026">
+		<content>전투끝</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40027">
+		<content>되돌이</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40028">
+		<content>장비를 구입하기 위한 전장</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40029">
+		<content>대응선수들을 찾을수 없습니다</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40030">
+		<content>접속실패</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40031">
+		<content>대화정보를 입력하십시오</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40032">
+		<content>오락에서 탈퇴하십시오</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40033">
+		<content>기호가 맞지 않습니다</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40034">
+		<content>보석을 가지십시오</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40035">
+		<content>사용자를 등록하십시오</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40036">
+		<content>당신을 팀에 초청하십시오</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40037">
+		<content>오락을 시작하려고 하는 팀을 찾으십시오, 혹은 가입하겠습니까?</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40038">
+		<content>경기</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40039">
+		<content>사람 대 콤퓨터</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40040">
+		<content>사다리</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40041">
+		<content>봉사기접속오유</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40042">
+		<content>잠간 기다리십시오. 봉사기접속이 다시 진행중입니다</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40043">
+		<content>당신은 이미 봉사기에서 탈퇴되였습니다</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40044">
+		<content>당신은 이미 진행중에 있는 오락을 선택하였습니다. 다시 접속하십시오 </content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40045">
+		<content>다시접속</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40046">
+		<content>읽기오유</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40047">
+		<content>사용자가 맞지 않습니다, 다시 가입하십시오</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40048">
+		<content>동업자를 성과적으로 초청하십시오</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="40049">
+		<content>동업자를 선택하십시오</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+	<info id="40050">
+		<content>카드</content>
+		<effect>1</effect>
+		<type>1</type>
+	</info>
+	<info id="40051">
+		<content>지도를 선택하십시오</content>
+		<effect>3</effect>
+		<type>1</type>
+	</info>
+</MsgCfg>

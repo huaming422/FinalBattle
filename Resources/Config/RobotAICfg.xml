@@ -1,0 +1,1424 @@
+<SkillCfg_RobotAI>
+  <info un32ID="1">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>0</n32ExNodeID>
+    <n32Value>
+    </n32Value>
+    <PostScript>AI</PostScript>
+  </info>
+  <info un32ID="1001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="1002">
+    <n32FunctionID>80001</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>1001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>battle countdown</PostScript>
+  </info>
+  <info un32ID="1004">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>1001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait Countdown ends</PostScript>
+  </info>
+  <info un32ID="2000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Buy equipment</PostScript>
+  </info>
+  <info un32ID="2001">
+    <n32FunctionID>80003</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>2000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>have not recommended the purchase of equipment</PostScript>
+  </info>
+  <info un32ID="2002">
+    <n32FunctionID>80004</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>2000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>CP value to meet the purchase requirements</PostScript>
+  </info>
+  <info un32ID="2003">
+    <n32FunctionID>90002</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>2000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Recommended form for purchase form configuration</PostScript>
+  </info>
+  <info un32ID="3000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>All kinds of wait</PostScript>
+  </info>
+  <info un32ID="3028">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>return blood wait</PostScript>
+  </info>
+  <info un32ID="3035">
+    <n32FunctionID>80012</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3028</n32ExNodeID>
+    <n32Value>100</n32Value>
+    <PostScript>own blood below (?)</PostScript>
+  </info>
+  <info un32ID="3036">
+    <n32FunctionID>80039</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3028</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is in the range of blood</PostScript>
+  </info>
+  <info un32ID="3037">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3028</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>dizziness wait</PostScript>
+  </info>
+  <info un32ID="3002">
+    <n32FunctionID>80005</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>in a runaway state</PostScript>
+  </info>
+  <info un32ID="3003">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>death wait</PostScript>
+  </info>
+  <info un32ID="3005">
+    <n32FunctionID>80006</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>in a state of death</PostScript>
+  </info>
+  <info un32ID="3006">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3007">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>seek way</PostScript>
+  </info>
+  <info un32ID="3008">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3007</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>request move</PostScript>
+  </info>
+  <info un32ID="3009">
+    <n32FunctionID>80008</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3007</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>be bound</PostScript>
+  </info>
+  <info un32ID="3010">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3007</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3011">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attack wait</PostScript>
+  </info>
+  <info un32ID="3012">
+    <n32FunctionID>80009</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3011</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is attacking</PostScript>
+  </info>
+  <info un32ID="3013">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3011</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3014">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>back city wait</PostScript>
+  </info>
+  <info un32ID="3015">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>3014</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is reading Back to the city</PostScript>
+  </info>
+  <info un32ID="3026">
+    <n32FunctionID>80010</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3015</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is reading the article back to the city</PostScript>
+  </info>
+  <info un32ID="3021">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3015</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>read the bar break</PostScript>
+  </info>
+  <info un32ID="3023">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3021</n32ExNodeID>
+    <n32Value>2,1,5</n32Value>
+    <PostScript>(?) Seconds from (?) (Enemies) damage more than their own health (?)%</PostScript>
+  </info>
+  <info un32ID="3024">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3021</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>implementation (?) (Run away) Path</PostScript>
+  </info>
+  <info un32ID="3022">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3015</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3016">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3022</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3017">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attached to the wait</PostScript>
+  </info>
+  <info un32ID="3018">
+    <n32FunctionID>80033</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is reading a note</PostScript>
+  </info>
+  <info un32ID="3019">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="3020">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>3000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills wait</PostScript>
+  </info>
+  <info un32ID="3025">
+    <n32FunctionID>80038</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>3020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is using skill</PostScript>
+  </info>
+  <info un32ID="3027">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>3020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="4000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Self-defense</PostScript>
+  </info>
+  <info un32ID="4041">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Retreat</PostScript>
+  </info>
+  <info un32ID="4054">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4041</n32ExNodeID>
+    <n32Value>2,4,5</n32Value>
+    <PostScript>(？)Seconds from by(?)(1.enemy；2.Soldier；3.hero；4.Arrow towers；)Of the damage than their own health value(?)%</PostScript>
+  </info>
+  <info un32ID="4048">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4041</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Run away</PostScript>
+  </info>
+  <info un32ID="4049">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4048</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Run awaywait</PostScript>
+  </info>
+  <info un32ID="4050">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>request to move in</PostScript>
+  </info>
+  <info un32ID="4051">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="4053">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4048</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>Execute (?) (Run away) Pathfinder</PostScript>
+  </info>
+  <info un32ID="4004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>use Self-defense skill</PostScript>
+  </info>
+  <info un32ID="4003">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>2,3,5</n32Value>
+    <PostScript>(?) Seconds from (?) (Enemies) damage more than their own health (?)%</PostScript>
+  </info>
+  <info un32ID="6022">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>20,2</n32Value>
+    <PostScript>radius (?) Meters inside the enemy heroes</PostScript>
+  </info>
+  <info un32ID="4006">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>Gain skill</PostScript>
+  </info>
+  <info un32ID="4007">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Get your skills ready</PostScript>
+  </info>
+  <info un32ID="4008">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Skill not in cooling</PostScript>
+  </info>
+  <info un32ID="4009">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Skills to meet consumption</PostScript>
+  </info>
+  <info un32ID="4010">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>itself is not silent</PostScript>
+  </info>
+  <info un32ID="4037">
+    <n32FunctionID>80041</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>Skills belong to(?)（1.Gain skill；2.Injury skills；3.Control skills；4.Displacement skills；）</PostScript>
+  </info>
+  <info un32ID="4011">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4006</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>(?) (Oneself) release skills</PostScript>
+  </info>
+  <info un32ID="4012">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Damage skills</PostScript>
+  </info>
+  <info un32ID="4013">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Get your skills ready</PostScript>
+  </info>
+  <info un32ID="4014">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Skill not in cooling</PostScript>
+  </info>
+  <info un32ID="4015">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills to meet consumption</PostScript>
+  </info>
+  <info un32ID="4016">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Itself was not silent</PostScript>
+  </info>
+  <info un32ID="4017">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>Target in(?)(skill)Release range</PostScript>
+  </info>
+  <info un32ID="4039">
+    <n32FunctionID>80041</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>Skills belong to(?)（1.Gain skill；2.Injury skills；3.Control skills；4.Displacement skills；）</PostScript>
+  </info>
+  <info un32ID="4018">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>(?) (Enemy) release skills</PostScript>
+  </info>
+  <info un32ID="4019">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>No target skills</PostScript>
+  </info>
+  <info un32ID="4020">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Get your skills ready</PostScript>
+  </info>
+  <info un32ID="4021">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Skill not in cooling</PostScript>
+  </info>
+  <info un32ID="4022">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills to meet consumption</PostScript>
+  </info>
+  <info un32ID="4023">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>itself is not silent</PostScript>
+  </info>
+  <info un32ID="4024">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4019</n32ExNodeID>
+    <n32Value>4</n32Value>
+    <PostScript>(?) (No target) release skills</PostScript>
+  </info>
+  <info un32ID="4025">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Withdraw</PostScript>
+  </info>
+  <info un32ID="4040">
+    <n32FunctionID>80012</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4025</n32ExNodeID>
+    <n32Value>30</n32Value>
+    <PostScript>own blood below (?)</PostScript>
+  </info>
+  <info un32ID="4026">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4025</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Back to the city</PostScript>
+  </info>
+  <info un32ID="4035">
+    <n32FunctionID>80040</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>5,1</n32Value>
+    <PostScript>(?) Seconds did not receive damage from (?) (Enemy)</PostScript>
+  </info>
+  <info un32ID="4027">
+    <n32FunctionID>80019</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>30</n32Value>
+    <PostScript>(?) Meters within the invincible side of the hero</PostScript>
+  </info>
+  <info un32ID="4028">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>itself is not silent</PostScript>
+  </info>
+  <info un32ID="4029">
+    <n32FunctionID>90004</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4026</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>perform back to the city</PostScript>
+  </info>
+  <info un32ID="4030">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4025</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>run away</PostScript>
+  </info>
+  <info un32ID="4032">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4030</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Run awaywait</PostScript>
+  </info>
+  <info un32ID="4033">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4032</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>request to move in</PostScript>
+  </info>
+  <info un32ID="4034">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4032</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="4031">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4030</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>Execute (?) (Run away) Pathfinder</PostScript>
+  </info>
+  <info un32ID="5000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>support</PostScript>
+  </info>
+  <info un32ID="5001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Defensive support</PostScript>
+  </info>
+  <info un32ID="5002">
+    <n32FunctionID>80020</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>20</n32Value>
+    <PostScript>radius (?) My hero is attacked</PostScript>
+  </info>
+  <info un32ID="5003">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Get your skills ready</PostScript>
+  </info>
+  <info un32ID="5004">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Skill not in cooling</PostScript>
+  </info>
+  <info un32ID="5005">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills to meet consumption</PostScript>
+  </info>
+  <info un32ID="5006">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>itself is not silent</PostScript>
+  </info>
+  <info un32ID="5007">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>target in the (?) (Skills) release range</PostScript>
+  </info>
+  <info un32ID="5008">
+    <n32FunctionID>80014</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>4</n32Value>
+    <PostScript>skills can be (?) (Friendly) release</PostScript>
+  </info>
+  <info un32ID="5009">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5001</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>on (?) (Friendly) release skills</PostScript>
+  </info>
+  <info un32ID="5010">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>offensive support</PostScript>
+  </info>
+  <info un32ID="5011">
+    <n32FunctionID>80021</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5010</n32ExNodeID>
+    <n32Value>20</n32Value>
+    <PostScript>radius (?) Meters have the enemy heroes attack heroes</PostScript>
+  </info>
+  <info un32ID="5012">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5010</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>use offensive skills to support</PostScript>
+  </info>
+  <info un32ID="5013">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>the skills ready</PostScript>
+  </info>
+  <info un32ID="5014">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills not in the cooling</PostScript>
+  </info>
+  <info un32ID="5015">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills to meet the consumption</PostScript>
+  </info>
+  <info un32ID="5016">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>itself is not silent</PostScript>
+  </info>
+  <info un32ID="5017">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>target in the (?) (Skills) release range</PostScript>
+  </info>
+  <info un32ID="5018">
+    <n32FunctionID>80014</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>skills can be (?) (Enemy) release</PostScript>
+  </info>
+  <info un32ID="5019">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5012</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>on (?) (Enemy) release skills</PostScript>
+  </info>
+  <info un32ID="5020">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>5010</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>use attack support</PostScript>
+  </info>
+  <info un32ID="5021">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>5020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack wait</PostScript>
+  </info>
+  <info un32ID="5022">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>5021</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is automatically attacked</PostScript>
+  </info>
+  <info un32ID="5023">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5021</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="5024">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>5020</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>execution attack</PostScript>
+  </info>
+  <info un32ID="6000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>war</PostScript>
+  </info>
+  <info un32ID="6001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attack heroes</PostScript>
+  </info>
+  <info un32ID="6002">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Kill</PostScript>
+  </info>
+  <info un32ID="6003">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6002</n32ExNodeID>
+    <n32Value>20,2</n32Value>
+    <PostScript>radius (?) Meters inside the enemy heroes</PostScript>
+  </info>
+  <info un32ID="6004">
+    <n32FunctionID>80024</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6002</n32ExNodeID>
+    <n32Value>30</n32Value>
+    <PostScript>enemy hero blood less than (?)%</PostScript>
+  </info>
+  <info un32ID="6005">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6002</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>to kill</PostScript>
+  </info>
+  <info un32ID="6006">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6005</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>open anger state</PostScript>
+  </info>
+  <info un32ID="6007">
+    <n32FunctionID>80035</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>full of anger</PostScript>
+  </info>
+  <info un32ID="6008">
+    <n32FunctionID>90007</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>outbreak of anger</PostScript>
+  </info>
+  <info un32ID="6009">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6005</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>use skills to kill</PostScript>
+  </info>
+  <info un32ID="6010">
+    <n32FunctionID>80034</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Get your skills ready</PostScript>
+  </info>
+  <info un32ID="6011">
+    <n32FunctionID>80015</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Skill not in cooling</PostScript>
+  </info>
+  <info un32ID="6012">
+    <n32FunctionID>80016</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>skills to meet consumption</PostScript>
+  </info>
+  <info un32ID="6013">
+    <n32FunctionID>80017</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>itself is not silent</PostScript>
+  </info>
+  <info un32ID="6014">
+    <n32FunctionID>80018</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>Target in(?)(skill)Release range</PostScript>
+  </info>
+  <info un32ID="6015">
+    <n32FunctionID>80014</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>skills can be released on (?) (Enemy)</PostScript>
+  </info>
+  <info un32ID="6016">
+    <n32FunctionID>90003</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6009</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>(?) (Enemy) release skills</PostScript>
+  </info>
+  <info un32ID="6017">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6005</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>use the attack to kill</PostScript>
+  </info>
+  <info un32ID="6018">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attack wait</PostScript>
+  </info>
+  <info un32ID="6019">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6018</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is automatically attacking</PostScript>
+  </info>
+  <info un32ID="6020">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6018</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="6021">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6017</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>perform an attack</PostScript>
+  </info>
+  <info un32ID="6038">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attack the soldier</PostScript>
+  </info>
+  <info un32ID="6039">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6038</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Fill the knife</PostScript>
+  </info>
+  <info un32ID="6040">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6039</n32ExNodeID>
+    <n32Value>20,3</n32Value>
+    <PostScript>radius (?) Meters inside the enemy soldier</PostScript>
+  </info>
+  <info un32ID="6041">
+    <n32FunctionID>80036</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6039</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>enemy small soldier blood under a single attack damage</PostScript>
+  </info>
+  <info un32ID="6042">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6039</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>lock the qualified soldier attack</PostScript>
+  </info>
+  <info un32ID="6043">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6042</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attack wait</PostScript>
+  </info>
+  <info un32ID="6044">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6043</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>is automatically attacking</PostScript>
+  </info>
+  <info un32ID="6045">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6043</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="6046">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6042</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>perform an attack</PostScript>
+  </info>
+  <info un32ID="6054">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6038</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Harassment</PostScript>
+  </info>
+  <info un32ID="6055">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6054</n32ExNodeID>
+    <n32Value>20,2</n32Value>
+    <PostScript>radius(?)There are enemy heroes inside</PostScript>
+  </info>
+  <info un32ID="4044">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6054</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Exit the soldier to pursue the range</PostScript>
+  </info>
+  <info un32ID="4055">
+    <n32FunctionID>80013</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4044</n32ExNodeID>
+    <n32Value>2,2,2</n32Value>
+    <PostScript>(？)Seconds from by(?)(1.enemy；2.Soldier；3.hero；4.Arrow towers;)Of the damage than their own health value(?)%</PostScript>
+  </info>
+  <info un32ID="4052">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>4044</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Run away</PostScript>
+  </info>
+  <info un32ID="4056">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>4052</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Run away</PostScript>
+  </info>
+  <info un32ID="4057">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>4056</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Request to move</PostScript>
+  </info>
+  <info un32ID="4058">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4056</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="4059">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>4052</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>carried out(?)(Run away)navigate</PostScript>
+  </info>
+  <info un32ID="6065">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6054</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Use attack harassment</PostScript>
+  </info>
+  <info un32ID="6066">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6065</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack wait</PostScript>
+  </info>
+  <info un32ID="6067">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6066</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Is automatically attacking</PostScript>
+  </info>
+  <info un32ID="6070">
+    <n32FunctionID>80043</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6066</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>The attack object is a locked object</PostScript>
+  </info>
+  <info un32ID="6068">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6066</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="6069">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6065</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Perform an attack</PostScript>
+  </info>
+  <info un32ID="6047">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6038</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>General attack</PostScript>
+  </info>
+  <info un32ID="6048">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6047</n32ExNodeID>
+    <n32Value>20,3</n32Value>
+    <PostScript>radius(?)Meters inside the enemy soldier</PostScript>
+  </info>
+  <info un32ID="6049">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>6047</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Lock the qualified soldier attack</PostScript>
+  </info>
+  <info un32ID="6050">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>6049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack waiting</PostScript>
+  </info>
+  <info un32ID="6051">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>6050</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Is automatically attacking</PostScript>
+  </info>
+  <info un32ID="6052">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6050</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="6053">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>6049</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Perform an attack</PostScript>
+  </info>
+  <info un32ID="7000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Advance</PostScript>
+  </info>
+  <info un32ID="7001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>7000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Push the tower</PostScript>
+  </info>
+  <info un32ID="7002">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>7001</n32ExNodeID>
+    <n32Value>20,1</n32Value>
+    <PostScript>radius(?)Mili has an enemy building</PostScript>
+  </info>
+  <info un32ID="7003">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>7001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack the building</PostScript>
+  </info>
+  <info un32ID="7004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>7003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack waiting</PostScript>
+  </info>
+  <info un32ID="7005">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>7004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Is automatically attacking</PostScript>
+  </info>
+  <info un32ID="7006">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>7004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="7007">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>7003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Perform an attack</PostScript>
+  </info>
+  <info un32ID="8000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Playing wild</PostScript>
+  </info>
+  <info un32ID="8001">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>20,4</n32Value>
+    <PostScript>radius(?)There are neutral creatures in the rice</PostScript>
+  </info>
+  <info un32ID="8002">
+    <n32FunctionID>80026</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>20</n32Value>
+    <PostScript>radius(?)There is no enemy in meters</PostScript>
+  </info>
+  <info un32ID="8013">
+    <n32FunctionID>80030</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>5</n32Value>
+    <PostScript>Own level is greater than(?)(digital)</PostScript>
+  </info>
+  <info un32ID="8008">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack high-level wild strange</PostScript>
+  </info>
+  <info un32ID="8014">
+    <n32FunctionID>80030</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>8</n32Value>
+    <PostScript>Own level is greater than(?)(digital)</PostScript>
+  </info>
+  <info un32ID="8015">
+    <n32FunctionID>80042</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>2</n32Value>
+    <PostScript>Wild strange class belongs to(?)(1.Low level;2.advanced;)</PostScript>
+  </info>
+  <info un32ID="8009">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack waiting</PostScript>
+  </info>
+  <info un32ID="8010">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Is automatically attacking</PostScript>
+  </info>
+  <info un32ID="8011">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8009</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="8012">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8008</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Perform an attack</PostScript>
+  </info>
+  <info un32ID="8003">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>8000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack low-level wild strange</PostScript>
+  </info>
+  <info un32ID="8016">
+    <n32FunctionID>80042</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8003</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>Wild strange class belongs to(?)(1.Low level;)</PostScript>
+  </info>
+  <info un32ID="8004">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>8003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack waiting</PostScript>
+  </info>
+  <info un32ID="8005">
+    <n32FunctionID>80037</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>8004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Is automatically attacking</PostScript>
+  </info>
+  <info un32ID="8006">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8004</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="8007">
+    <n32FunctionID>90006</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>8003</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Perform an attack</PostScript>
+  </info>
+  <info un32ID="9000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Possessed</PostScript>
+  </info>
+  <info un32ID="9001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>9000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Place the altar</PostScript>
+  </info>
+  <info un32ID="9003">
+    <n32FunctionID>80028</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9001</n32ExNodeID>
+    <n32Value>20,1</n32Value>
+    <PostScript>radius(?)Inside the rice(?)(1. Not used 2. has been used 3. will do)Friendly altar</PostScript>
+  </info>
+  <info un32ID="9002">
+    <n32FunctionID>80027</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>There are absorbed monsters</PostScript>
+  </info>
+  <info un32ID="9005">
+    <n32FunctionID>90008</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>9001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Put the absorbed monster into the altar</PostScript>
+  </info>
+  <info un32ID="9006">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>9000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Carry out</PostScript>
+  </info>
+  <info un32ID="9007">
+    <n32FunctionID>80030</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>3</n32Value>
+    <PostScript>Character level is greater than(?)level</PostScript>
+  </info>
+  <info un32ID="9010">
+    <n32FunctionID>80032</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Who have spare body position</PostScript>
+  </info>
+  <info un32ID="9009">
+    <n32FunctionID>80025</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>20,4</n32Value>
+    <PostScript>radius(?)There are neutral creatures in the rice</PostScript>
+  </info>
+  <info un32ID="9008">
+    <n32FunctionID>80044</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>CP points more than possessed</PostScript>
+  </info>
+  <info un32ID="9011">
+    <n32FunctionID>90009</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>9006</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Carry out</PostScript>
+  </info>
+  <info un32ID="10000">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>0</n32NodeID>
+    <n32ExNodeID>1</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>attack</PostScript>
+  </info>
+  <info un32ID="10001">
+    <n32FunctionID>0</n32FunctionID>
+    <n32NodeID>1</n32NodeID>
+    <n32ExNodeID>10000</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Attack waiting</PostScript>
+  </info>
+  <info un32ID="10002">
+    <n32FunctionID>80007</n32FunctionID>
+    <n32NodeID>2</n32NodeID>
+    <n32ExNodeID>10001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>Request to move</PostScript>
+  </info>
+  <info un32ID="10003">
+    <n32FunctionID>90001</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>10001</n32ExNodeID>
+    <n32Value>0</n32Value>
+    <PostScript>wait</PostScript>
+  </info>
+  <info un32ID="10004">
+    <n32FunctionID>90005</n32FunctionID>
+    <n32NodeID>3</n32NodeID>
+    <n32ExNodeID>10000</n32ExNodeID>
+    <n32Value>1</n32Value>
+    <PostScript>Execute(?)(Attack)Pathfinder</PostScript>
+  </info>
+</SkillCfg_RobotAI>

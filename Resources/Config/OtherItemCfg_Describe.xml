@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OtherItemCfg_Describe xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info EffectID="1001">
+		<EffectDescribe>금화획득+{0}%</EffectDescribe>
+	</info>
+	<info EffectID="1002">
+		<EffectDescribe>경험획득+{0}%</EffectDescribe>
+	</info>
+	<info EffectID="1003">
+		<EffectDescribe>모든 장수 해제({0}일)</EffectDescribe>
+	</info>
+	<info EffectID="1004">
+		<EffectDescribe>장수 1명 해제({0}일)</EffectDescribe>
+	</info>
+	<info EffectID="1005">
+		<EffectDescribe>장비승급에 리용된다.{0}급 이하</EffectDescribe>
+	</info>
+	<info EffectID="1006">
+		<EffectDescribe>증가{0}장비효과</EffectDescribe>
+	</info>
+</OtherItemCfg_Describe>

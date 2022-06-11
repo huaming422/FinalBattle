@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<herochoose xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <info number="19999">
+    <name_ID>Jinglingnan_6</name_ID>
+    <name_ch>부러진 검무사</name_ch>
+    <pic_thumb>16</pic_thumb>
+    <hero_des>[00b6fc]원형베기:[-]검을 휘둘러 사거리에 있는 적들을 무력화시키는 동시에 피해를 입힌다</hero_des>
+    <hero_des2>[00b6fc]가로베기:[-]검을 들어 일직선상에 있는 적들을 베여 피해를 입히고 속도를 저하시킨다</hero_des2>
+    <hero_desPassitive>[00b6fc]지혜:[-]일반공격이 치명타격을 입힐 확률을 높여준다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]장검무사[-]
+      [da841f]근거리/전투장수[-]
+      [2dda1f]공격력[-] [b68500]★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>16</pic_icon>
+    <sound_select>Jinglingnan_5_line_01</sound_select>
+    <skill_icon1>03</skill_icon1>
+    <skill_icon2>04</skill_icon2>
+    <skill_iconPassitive>69</skill_iconPassitive>
+    <newsguidehero>1</newsguidehero>
+  </info>
+  <info number="10001">
+    <name_ID>Nvyao_5</name_ID>
+    <name_ch>벗꽃장수</name_ch>
+    <pic_thumb>32</pic_thumb>
+    <hero_des>[00b6fc]벗꽃폭풍[-]벗꽃폭풍을 일으켜 적들이 특기를 사용하지 못하도록 한다</hero_des>
+    <hero_des2>[00b6fc]벗꽃우박:[-]하늘로 떠올라 벗꽃우박을 퍼부어 적들이 공격하지 못하도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]벗꽃락수:[-]일반공격을 4번 할 때마다 주위의 적들에게 벗꽃반응공격을 한다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]벗꽃장수[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★★[-]
+      [2dda1f]방어력[-] [b68500]★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+      원(먼)거리 도술(특기)장수
+    </bac_des>
+    <pic_icon>32</pic_icon>
+    <sound_select>Nvyao_5_line_01</sound_select>
+    <skill_icon1>02</skill_icon1>
+    <skill_icon2>01</skill_icon2>
+    <skill_iconPassitive>68</skill_iconPassitive>
+  </info>
+  <info number="10002">
+    <name_ID>Jinglingnan_5</name_ID>
+    <name_ch>장검무사</name_ch>
+    <pic_thumb>16</pic_thumb>
+    <hero_des>[00b6fc]원형베기:[-]검을 휘둘러 사거리에 있는 적들을 무력화시키는 동시에 피해를 입힌다</hero_des>
+    <hero_des2>[00b6fc]가로베기:[-]검을 들어 일직선상에 있는 적들을 베여 피해를 입히고 속도를 저하시킨다</hero_des2>
+    <hero_desPassitive>[00b6fc]지혜:[-]일반공격이 치명타격을 입힐 확률을 높여준다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]부러진 검무사[-]
+      [da841f]근거리/전투장수[-]
+      [2dda1f]공격력[-] [b68500]★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>16</pic_icon>
+    <sound_select>Jinglingnan_5_line_01</sound_select>
+    <skill_icon1>03</skill_icon1>
+    <skill_icon2>04</skill_icon2>
+    <skill_iconPassitive>69</skill_iconPassitive>
+  </info>
+  <info number="10003">
+    <name_ID>Xiyiren_5</name_ID>
+    <name_ch>그림자장수</name_ch>
+    <pic_thumb>12</pic_thumb>
+    <hero_des>[00b6fc]순간타격:[-]대상에 공간이동하여 순간적인 공격을 가한다</hero_des>
+    <hero_des2>[00b6fc]그림자타격:[-]그림자속에서 여러 적들을 공격하여 공격속도를 급속히 저하시킨다</hero_des2>
+    <hero_desPassitive>[00b6fc]암살:[-]일정한 시간간격으로 진행되는 공격이 치명타격을 안긴다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]그림자장수[-]
+      [da841f]근거리/자객[-]
+      [2dda1f]공격력[-] [b68500]★★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>12</pic_icon>
+    <sound_select>Xiyiren_5_line_01</sound_select>
+    <skill_icon1>05</skill_icon1>
+    <skill_icon2>06</skill_icon2>
+    <skill_iconPassitive>70</skill_iconPassitive>
+  </info>
+  <info number="10004">
+    <name_ID>Dongfashi_5</name_ID>
+    <name_ch>서리장수</name_ch>
+    <pic_thumb>7</pic_thumb>
+    <hero_des>[00b6fc]설풍:[-]대상지역에 눈보라를 일으켜 주위에 있는 적들에게 지속적인 피해를 입히고 속도를 저하시킨다</hero_des>
+    <hero_des2>[00b6fc]랭각공격:[-]눈덩이를 만들어 대상을 랭각시켜 아군이 되살아난다면 지속적인 피해를 입힌다</hero_des2>
+    <hero_desPassitive>[00b6fc]서리포탄공격:[-]일반공격으로 공격자의 공격속도와 이동속도를 저하시킨다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]서리장수[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>7</pic_icon>
+    <sound_select>Dongfashi_5_line_01</sound_select>
+    <skill_icon1>07</skill_icon1>
+    <skill_icon2>08</skill_icon2>
+    <skill_iconPassitive>71</skill_iconPassitive>
+  </info>
+  <info number="10005">
+    <name_ID>Feilong_5</name_ID>
+    <name_ch>비룡무사</name_ch>
+    <pic_thumb>8</pic_thumb>
+    <hero_des>[00b6fc]화염공격:[-]부채모양의 구역에 화염을 뿌려 적들을 불사른다</hero_des>
+    <hero_des2>[00b6fc]화염폭풍:[-]대상지역에 화염폭풍이 불게 하여 적들에게 지속적인 피해를 입힌다</hero_des2>
+    <hero_desPassitive>[00b6fc]오랜 수양:[-]자신의 도술(특기)을 높여준다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]비룡무사[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★★★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★★★★★[-]
+
+    </bac_des>
+    <pic_icon>8</pic_icon>
+    <sound_select>Feilong_5_line_01</sound_select>
+    <skill_icon1>09</skill_icon1>
+    <skill_icon2>10</skill_icon2>
+    <skill_iconPassitive>72</skill_iconPassitive>
+  </info>
+  <info number="10006">
+    <name_ID>Jinglingnv_5</name_ID>
+    <name_ch>별궁수</name_ch>
+    <pic_thumb>17</pic_thumb>
+    <hero_des>[00b6fc]명궁화살:[-]대상에게 명중화살을 날려 피해를 입히고 무력화시킨다</hero_des>
+    <hero_des2>[00b6fc]화살세례:[-]대상지역에 많은 화살들을 날려 적들에게 지속적인 피해를 입힌다</hero_des2>
+    <hero_desPassitive>[00b6fc]별빛:[-]공격력을 높여준다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]별궁수[-]
+      [da841f]원(먼)거리/궁수[-]
+      [2dda1f]공격력[-] [b68500]★★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>17</pic_icon>
+    <sound_select>Jinglingnv_5_line_01</sound_select>
+    <skill_icon1>11</skill_icon1>
+    <skill_icon2>12</skill_icon2>
+    <skill_iconPassitive>73</skill_iconPassitive>
+  </info>
+  <info number="10007">
+    <name_ID>Zhizhu_5</name_ID>
+    <name_ch>독거미</name_ch>
+    <pic_thumb>19</pic_thumb>
+    <hero_des>[00b6fc]독약:[-]대상에게 독을 내뿜어 중독시킨다음 지속적인 피해를 입히고 독성분이 폭발하여(터져) 큰 피해를 입도록 한다</hero_des>
+    <hero_des2>[00b6fc]거미줄공격:[-]대상이 거미줄에 감겨 활동하지 못하도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]독물:[-]일반적인 공격을 할 때 적에게 독을 주입하여 지속적인 피해를 입히고 이동속도를 저하시킨다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]독거미[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★★[-]
+      [2dda1f]기력[-] [b68500]★★★★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>19</pic_icon>
+    <sound_select>Zhizhu_5_line_01</sound_select>
+    <skill_icon1>13</skill_icon1>
+    <skill_icon2>14</skill_icon2>
+    <skill_iconPassitive>74</skill_iconPassitive>
+  </info>
+  <info number="10008">
+    <name_ID>Yelang_5</name_ID>
+    <name_ch>공룡무사</name_ch>
+    <pic_thumb>28</pic_thumb>
+    <hero_des>[00b6fc]노호:[-]큰 울음소리를 내여 속도와 공격속도를 증가시킨다</hero_des>
+    <hero_des2>[00b6fc]발톱타격:[-]발톱을 휘둘러 적에게 큰 타격을 주고 이동속도를 저하시킨다</hero_des2>
+    <hero_desPassitive>[00b6fc]보복:[-]최대체력을 가진 대상의 일반공격이 공격대상과 자기에게 동시에 피해를 가하도록 한다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]공룡무사[-]
+      [da841f]근거리/전투장수[-]
+      [2dda1f]공격력[-] [b68500]★★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>28</pic_icon>
+    <sound_select>Yelang_5_line_01</sound_select>
+    <skill_icon1>15</skill_icon1>
+    <skill_icon2>16</skill_icon2>
+    <skill_iconPassitive>75</skill_iconPassitive>
+  </info>
+  <info number="10009">
+    <name_ID>Renma_5</name_ID>
+    <name_ch>선봉장</name_ch>
+    <pic_thumb>23</pic_thumb>
+    <hero_des>[00b6fc]충돌[-]피해범위에 따라 대상위치로 달려가 적들의 속도를 저하시킨다</hero_des>
+    <hero_des2>[00b6fc]선풍:[-]적에게 도끼를 날려 그것을 맞은 적들은 지속적인 피해를 입고 속도가 저하된다</hero_des2>
+    <hero_desPassitive>[00b6fc]체력보충:[-]일반적타격이 체력회복속도를 높여준다(이 효과는 증가될수 있다)</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]선봉장[-]
+      [da841f]근거리/선봉장수[-]
+      [2dda1f]공격력[-] [b68500]★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★★★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>23</pic_icon>
+    <sound_select>Renma_5_line_01</sound_select>
+    <skill_icon1>17</skill_icon1>
+    <skill_icon2>18</skill_icon2>
+    <skill_iconPassitive>77</skill_iconPassitive>
+  </info>
+  <info number="10010">
+    <name_ID>Jiachong_5</name_ID>
+    <name_ch>공룡무사</name_ch>
+    <pic_thumb>14</pic_thumb>
+    <hero_des>[00b6fc]가시타격[-]대상에게 예리한 가시를 던져 치명적인 피해를 입힌다</hero_des>
+    <hero_des2>[00b6fc]앞발타격:[-]앞발톱으로 땅을 내리쳐 앞에 있는 적들을 무력화시키고 피해를 입힌다</hero_des2>
+    <hero_desPassitive>[00b6fc]투지:[-]일반타격으로 공격자를 무력화시킨다(때때로 한번만 동작한다)</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]공룡무사[-]
+      [da841f]근거리/선봉장수[-]
+      [2dda1f]공격력[-] [b68500]★★[-]
+      [2dda1f]기력[-] [b68500]★★[-]
+      [2dda1f]방어력[-] [b68500]★★★★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>14</pic_icon>
+    <sound_select>Jiachong_5_line_01</sound_select>
+    <skill_icon1>19</skill_icon1>
+    <skill_icon2>20</skill_icon2>
+    <skill_iconPassitive>76</skill_iconPassitive>
+  </info>
+  <info number="10011">
+    <name_ID>Lisa_5</name_ID>
+    <name_ch>폭풍의 녀장수</name_ch>
+    <pic_thumb>35</pic_thumb>
+    <hero_des>[00b6fc]룡권:[-]룡권을 일으켜 대상에게 피해를 입히고 속도를 저하시킨다</hero_des>
+    <hero_des2>[00b6fc]악마의 바람[-]주위에 강한 바람을 일으켜 일정한 범위내에 있는 적들에게 피해를 입히고 일정한 거리에 물러나도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]강풍:[-]일정한 시간후에 일반공격속도를 감소시킨다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]폭풍의 녀장수[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★★[-]
+      [2dda1f]방어력[-] [b68500]★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>35</pic_icon>
+    <sound_select>Fengbaonv_5_line_01</sound_select>
+    <skill_icon1>34</skill_icon1>
+    <skill_icon2>35</skill_icon2>
+    <skill_iconPassitive>82</skill_iconPassitive>
+  </info>
+  <info number="10012">
+    <name_ID>Aige_5</name_ID>
+    <name_ch>고통의 무사</name_ch>
+    <pic_thumb>36</pic_thumb>
+    <hero_des>[00b6fc]흑풍:[-]자기주위에 있는 적들에게 피해를 입히면서 범위내에 있는 한명의 장수에게 지속적인 피해를 입히고 속도를 저하시킨다</hero_des>
+    <hero_des2>[00b6fc]어둠속의 칼날:[-]쌍날검을 휘둘러 대상에게 달려가 그 주위에 있는 적들에게 피해를 입힌다</hero_des2>
+    <hero_desPassitive>[00b6fc]베기:[-]일반공격에 류혈효과를 더해주어 최대체력의 프로수에 따라 피해를 입힌다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]고통의 무사[-]
+      [da841f]근거리/전투장수[-]
+      [2dda1f]공격력[-] [b68500]★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>36</pic_icon>
+    <sound_select>Aige_5_line_01</sound_select>
+    <skill_icon1>47</skill_icon1>
+    <skill_icon2>46</skill_icon2>
+    <skill_iconPassitive>78</skill_iconPassitive>
+  </info>
+  <info number="10013">
+    <name_ID>Hanhui_5</name_ID>
+    <name_ch>얼음깃털무사</name_ch>
+    <pic_thumb>37</pic_thumb>
+    <hero_des>[00b6fc]흰눈폭설:[-]자기의 얼음힘을 폭발시켜 일정한 기간 일반공격이 적을 짧은 시간동안 얼어붙게 만든다</hero_des>
+    <hero_des2>[00b6fc]얼음호수:[-]정면에 얼음바닥을 형성하여 적들이 지속적인 피해를 받고 속도가 저하되도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]얼음공격:[-]일정한 시간후에 일반공격이 추가적인 피해를 가하도록 한다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]얼음깃털무사[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★★★[-]
+      [2dda1f]기력[-] [b68500]★★★[-]
+      [2dda1f]방어력[-] [b68500]★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>37</pic_icon>
+    <sound_select>Hanhuizhiyu_5_line_01</sound_select>
+    <skill_icon1>38</skill_icon1>
+    <skill_icon2>39</skill_icon2>
+    <skill_iconPassitive>79</skill_iconPassitive>
+  </info>
+  <info number="10014">
+    <name_ID>Juren_5</name_ID>
+    <name_ch>돌도끼장수</name_ch>
+    <pic_thumb>38</pic_thumb>
+    <hero_des>[00b6fc]도끼후려치기:[-]큰 도끼를 휘둘러 주변의 적들에게 피해를 입히고 속도를 저하시킨다</hero_des>
+    <hero_des2>[00b6fc]전투준비향상:[-]공격속도를 증가시키고 즉시에 체력을 보충하며 재생된다</hero_des2>
+    <hero_desPassitive>[00b6fc]바람속도:[-]일정한 시간후에 이동속도를 높여준다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]돌도끼장수[-]
+      [da841f]근거리/선봉장수[-]
+      [2dda1f]공격력[-] [b68500]★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★★★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>38</pic_icon>
+    <sound_select>Shifu_5_line_01</sound_select>
+    <skill_icon1>52</skill_icon1>
+    <skill_icon2>53</skill_icon2>
+    <skill_iconPassitive>80</skill_iconPassitive>
+  </info>
+  <info number="10015">
+    <name_ID>Chengjiezhe_5</name_ID>
+    <name_ch>보복무사</name_ch>
+    <pic_thumb>39</pic_thumb>
+    <hero_des>[00b6fc]도술기압:[-]기를 내보내여 대상에게 피해를 입히고 적의 기력을 없앤다</hero_des>
+    <hero_des2>[00b6fc]훈련:[-]대상이 지속적인 피해를 입고 무장해제된다 (만약 대상이 이 기간에 특기를 사용하면 무장해제상태는 특기금지상태로 넘어간다)</hero_des2>
+    <hero_desPassitive>[00b6fc]기압방어:[-]도술(특기)에 대한 방어력을 높여준다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]보복무사[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★★[-]
+      [2dda1f]방어력[-] [b68500]★★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>39</pic_icon>
+    <sound_select>Emo_line_01</sound_select>
+    <skill_icon1>31</skill_icon1>
+    <skill_icon2>30</skill_icon2>
+    <skill_iconPassitive>81</skill_iconPassitive>
+  </info>
+  <info number="10016">
+    <name_ID>Bianfu_5</name_ID>
+    <name_ch>동굴악사</name_ch>
+    <pic_thumb>40</pic_thumb>
+    <hero_des>[00b6fc]음파:[-]직사각형범위에 음파를 내보내여 범위내에 있는 적들에게 피해를 입히고 을 떨어뜨린다</hero_des>
+    <hero_des2>[00b6fc]바람:[-]신체에 강한 바람을 일으켜 범위내에 있는 적들에게 피해를 입히고 속도를 저하시킨다</hero_des2>
+    <hero_desPassitive>[00b6fc]초음파공격:[-]방어벽주위에 있는 적들의 기력을 저하시킨다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]동굴악사[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★★[-]
+      [2dda1f]방어력[-] [b68500]★[-]
+      [2dda1f]사거리[-] [b68500]★★★★★[-]
+
+    </bac_des>
+    <pic_icon>40</pic_icon>
+    <sound_select>Bianfu_5_line_01</sound_select>
+    <skill_icon1>32</skill_icon1>
+    <skill_icon2>33</skill_icon2>
+    <skill_iconPassitive>83</skill_iconPassitive>
+  </info>
+  <info number="10017">
+    <name_ID>Wenyi_5</name_ID>
+    <name_ch>메뚜기요괴</name_ch>
+    <pic_thumb>51</pic_thumb>
+    <hero_des>[00b6fc]고통:[-]대상에게 전염병을 퍼뜨려 대상이 받는 매 공격이 추가적인 피해를 입도록 한다</hero_des>
+    <hero_des2>[00b6fc]독약:[-]대상에게 독약을 던져 지속적인 피해를 입힌 결과 대상이 무력화되도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]전염병:[-]이 장수를 타격하는 그 어떤 공격자도 전염병에 감염되도록 한다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]메뚜기요괴[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>51</pic_icon>
+    <sound_select>Wenyiwushi_line_01</sound_select>
+    <skill_icon1>62</skill_icon1>
+    <skill_icon2>63</skill_icon2>
+    <skill_iconPassitive>94</skill_iconPassitive>
+  </info>
+  <info number="10018">
+    <name_ID>Shihunzhe_5</name_ID>
+    <name_ch>무형무사</name_ch>
+    <pic_thumb>47</pic_thumb>
+    <hero_des>[00b6fc]흡수:[-]짧은 시간동안 적의 체력과 기력을 감소시키는 동시에 자기의 체력과 기력을 높여준다</hero_des>
+    <hero_des2>[00b6fc]혼미백산:[-]주위에 있는 적들의 령혼을 뽑아 아군에게 넣어준다</hero_des2>
+    <hero_desPassitive>[00b6fc]경험:[-]적장수를 죽일때마다 공격력과 방어력이 올라간다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]무형무사[-]
+      [da841f]근거리/전투장수[-]
+      [2dda1f]공격력[-] [b68500]★★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>47</pic_icon>
+    <sound_select>Shihunzhe_5_line_01</sound_select>
+    <skill_icon1>54</skill_icon1>
+    <skill_icon2>55</skill_icon2>
+    <skill_iconPassitive>90</skill_iconPassitive>
+  </info>
+  <info number="10019">
+    <name_ID>Taiyushen_5</name_ID>
+    <name_ch>감옥파수병</name_ch>
+    <pic_thumb>49</pic_thumb>
+    <hero_des>[00b6fc]고문[-]적을 잡아 움직이지 못하도록 하고 지속적인 피해를 입도록 한다</hero_des>
+    <hero_des2>[00b6fc]불로수:[-]자기들의 몸에 무적의 불로수를 뿌려 물리적타격과 특기피해를 입지 않도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]석질피부:[-]적에게서 받는 일부피해를 되돌려 보낸다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]감옥파수병[-]
+      [da841f]근거리/선봉장수[-]
+      [2dda1f]공격력[-] [b68500]★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★★★★★[-]
+      [2dda1f]사거리[-] [b68500]★[-]
+
+    </bac_des>
+    <pic_icon>49</pic_icon>
+    <sound_select>Taiyushen_5_line_01</sound_select>
+    <skill_icon1>58</skill_icon1>
+    <skill_icon2>59</skill_icon2>
+    <skill_iconPassitive>92</skill_iconPassitive>
+  </info>
+  <info/>
+  <info number="10021">
+    <name_ID>Heimolv_5</name_ID>
+    <name_ch>검은마녀</name_ch>
+    <pic_thumb>42</pic_thumb>
+    <hero_des>[00b6fc]신비한 빛:[-]장수를 반대켠에 보낼수 있는 빛을 내보낸다(만약 적장수들이 타격을 가한다면)</hero_des>
+    <hero_des2>[00b6fc]덫:[-]덫을 놓아 그 덫에 걸린 적과 그 주위의 적들의 발목을 묶고 고통을 준다</hero_des2>
+    <hero_desPassitive>[00b6fc]공간이동:[-]만약 적장수가 피해를 준다면 주변의 아군장수주위에 공간이동시킨다</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]검은마녀[-]
+      [da841f]원(먼)거리/도술(특기)장수[-]
+      [2dda1f]공격력[-] [b68500]★[-]
+      [2dda1f]기력[-] [b68500]★★★[-]
+      [2dda1f]방어력[-] [b68500]★★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>42</pic_icon>
+    <sound_select>Heimolv_5_line_01</sound_select>
+    <skill_icon1>40</skill_icon1>
+    <skill_icon2>41</skill_icon2>
+    <skill_iconPassitive>85</skill_iconPassitive>
+  </info>
+  <info number="10022">
+    <name_ID>Tanshigui_5</name_ID>
+    <name_ch>신비검술사</name_ch>
+    <pic_thumb>50</pic_thumb>
+    <hero_des>[00b6fc]검은 단도:[-]적에게 단도를 던져 적들의 발목을 묶고 피해를 입힌다</hero_des>
+    <hero_des2>[00b6fc]혈우:[-]적에게 단도를 쉬임없이 던져 적들이 피를 뿌리도록 한다</hero_des2>
+    <hero_desPassitive>[00b6fc]복수:[-]일반적인 공격을 할 때 일정한 기간 속도가 빨라진다(이 효과는 증가될수 있다)</hero_desPassitive>
+    <buy_des>
+
+    </buy_des>
+    <bac_des>
+      [0078ff]신비검술사[-]
+      [da841f]원(먼)거리/전투장수[-]
+      [2dda1f]공격력[-] [b68500]★★★★★[-]
+      [2dda1f]기력[-] [b68500]★[-]
+      [2dda1f]방어력[-] [b68500]★[-]
+      [2dda1f]사거리[-] [b68500]★★★★[-]
+
+    </bac_des>
+    <pic_icon>50</pic_icon>
+    <sound_select>Tanshigui_5_line_01</sound_select>
+    <skill_icon1>60</skill_icon1>
+    <skill_icon2>61</skill_icon2>
+    <skill_iconPassitive>93</skill_iconPassitive>
+  </info>
+</herochoose>

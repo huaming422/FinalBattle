@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Trigger xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info TaskID="17000">
+		<Text>여기를 눌러[99ffff]경기지도를 받으십시오[-]</Text>
+		<BtnName>Battle</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>78,-250,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17001">
+		<Text>새가입자 훈련장을 선택하시오</Text>
+		<BtnName>Training</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>-110,-65,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17002">
+		<Text>새가입자 훈련장</Text>
+		<BtnName>1001</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>135,-65,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17003">
+		<Text>당신은 오락상점에서 장수를 구입할수 있습니다！
+장수를 선택하시오</Text>
+		<BtnName>Market</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>250,-230,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17004">
+		<Text>"장수"부류에서 구입하려는 장수를 선택하시오</Text>
+		<BtnName>Hero</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>-22,6,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17005">
+		<Text>3급에 도달한걸 축하합니다，
+장비들을 사서 전투력을 높일수있습니다！</Text>
+		<BtnName>Market</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>250,-230,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17006">
+		<Text>"장비"부류에사려는 장비를 선택하시오</Text>
+		<BtnName>Rune</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>-22,-10,0</PosXYZ>
+		<GuideType>1</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17007">
+		<Text>바꿈단추를 누르고 목표를 선택하시오！</Text>
+		<BtnName>Button_7</BtnName>
+		<PrefabName>UIGuideBottomRight</PrefabName>
+		<PosXYZ>-400,222,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_button_ring</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17008">
+		<Text>전투를 시작하기전에 초기장비를 구입하시오</Text>
+		<BtnName>ShopBtn</BtnName>
+		<PrefabName>UIGuideTopleft</PrefabName>
+		<PosXYZ>550,-222,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_button_ring</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17009">
+		<Text>확인단추를 눌러 신체능력을 높이시오</Text>
+		<BtnName>BuyBtn</BtnName>
+		<PrefabName>UIGuideCenter</PrefabName>
+		<PosXYZ>110,-305,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_buy_remind</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17010">
+		<Text>이 단추로 밖으로 나가시오</Text>
+		<BtnName>CancelButton</BtnName>
+		<PrefabName>UIGuideCenter</PrefabName>
+		<PosXYZ>180,315,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_close_remind</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17011">
+		<Text>조종간으로 이동할수있습니다</Text>
+		<BtnName>VirtualStickUI</BtnName>
+		<PrefabName>UIGuideBottomleft</PrefabName>
+		<PosXYZ>470,200,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17012">
+		<Text>이단추를 눌러 적병을 공격하시오</Text>
+		<BtnName>Button_6</BtnName>
+		<PrefabName>UIGuideBottomRight</PrefabName>
+		<PosXYZ>-380,88,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_button_ring</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17013">
+		<Text>특기를 리용하시오</Text>
+		<BtnName>Button_0</BtnName>
+		<PrefabName>UIGuideBottomRight</PrefabName>
+		<PosXYZ>-480,190,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_button_ring</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17014">
+		<Text>우로 이동하여 목표를 바꾸시오</Text>
+		<BtnName>Button_6</BtnName>
+		<PrefabName>UIGuideFrame3</PrefabName>
+		<PosXYZ>-65,-323,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<triggertype>2</triggertype>
+		<type>1</type>
+		<times>3</times>
+	</info>
+	<info TaskID="17015">
+		<Text>수하병사들을 얻으면 공격을 강화할수있습니다</Text>
+		<BtnName>Head</BtnName>
+		<PrefabName>UIGuideTopleft</PrefabName>
+		<PosXYZ>-380,15,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_absorb_ring</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17016">
+		<Text>병영에서 나오게할 병사종류를 선택하시오</Text>
+		<BtnName>Soldier1</BtnName>
+		<Btncoord>20,-60.2,0</Btncoord>
+		<PrefabName>UIGuideCenter</PrefabName>
+		<PosXYZ>0,-177,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_button_ring</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17017">
+		<Text>장수사진을 눌러 분노를 일으킬수있다</Text>
+		<BtnName>EnergyPool</BtnName>
+		<PrefabName>UIGuideTopleft</PrefabName>
+		<PosXYZ>458,-50,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17018">
+		<Text>새장비를 얻은걸 시험해보시오</Text>
+		<BtnName>Homepage</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>15,-230,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17019">
+		<Text>장비를 눌러 휴대칸에 넣으시오</Text>
+		<BtnName>Runes</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>-130,-110,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17020">
+		<Text>이것을 눌러 장술를 얻으시오</Text>
+		<BtnName>1</BtnName>
+    <Btncoord>-125,-25.5,0</Btncoord>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>110,-30,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+	<info TaskID="17021">
+		<Text>구입하면 그장수를 영원히 사용할수있다！</Text>
+		<BtnName>Gold</BtnName>
+		<PrefabName>UIGuideFrame</PrefabName>
+		<PosXYZ>33,-325,0</PosXYZ>
+		<GuideType>3</GuideType>
+		<GuideEffect>effect/ui_effect/tips_scale</GuideEffect>
+		<triggertype>1</triggertype>
+	</info>
+</Trigger>

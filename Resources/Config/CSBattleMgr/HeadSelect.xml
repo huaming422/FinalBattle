@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HeadSelect xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info HeadID="1">
+		<Head_Name>Elves male</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>16</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="2">
+		<Head_Name>Elves female</Head_Name>
+		<Head_Type>2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>17</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="3">
+		<Head_Name>Tomoko</Head_Name>
+		<Head_Type>2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>32</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="4">
+		<Head_Name>Ghost flash</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>12</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="5">
+		<Head_Name>Frozen Master</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>7</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="6">
+		<Head_Name>Centaur</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>23</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="7">
+		<Head_Name>beetle</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>14</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="8">
+		<Head_Name>spider</Head_Name>
+		<Head_Type>2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>19</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="9">
+		<Head_Name>Wolf</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>28</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="10">
+		<Head_Name>Fire dragon</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>8</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="11">
+		<Head_Name>The enslaved ape man</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>11</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="12">
+		<Head_Name>Medical ape man</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>29</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="13">
+		<Head_Name>Little Tom</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>20</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="14">
+		<Head_Name>Bear</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>27</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="15">
+		<Head_Name>Wizard melee soldier</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>18</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="16">
+		<Head_Name>Wizard remote soldier</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>33</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="17">
+		<Head_Name>The souls of melee soldier</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>25</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="18">
+		<Head_Name>Undead remote soldier</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>26</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="19">
+		<Head_Name>Stone magic</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>24</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="20">
+		<Head_Name>Fish man</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>30</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="21">
+		<Head_Name>Lei Ling</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>22</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="22">
+		<Head_Name>Sea knight</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>13</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="23">
+		<Head_Name>A dragon</Head_Name>
+		<Head_Type>1,2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>15</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="24">
+		<Head_Name>Storm woman</Head_Name>
+		<Head_Type>2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>35</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="25">
+		<Head_Name>Iger</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>36</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="26">
+		<Head_Name>Hanhui's feathers</Head_Name>
+		<Head_Type>2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>37</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="27">
+		<Head_Name>돌도끼장수</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>38</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="28">
+		<Head_Name>Disciplinary person</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>39</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="29">
+		<Head_Name>Cave bat</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>40</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="30">
+		<Head_Name>Black law</Head_Name>
+		<Head_Type>2</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>42</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="31">
+		<Head_Name>Soul Eater</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>47</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="32">
+		<Head_Name>Thai prison gods</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>49</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>3</Account_Level>
+	</info>
+	<info HeadID="33">
+		<Head_Name>Greedy ghosts</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>50</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+	<info HeadID="34">
+		<Head_Name>Plague wizards</Head_Name>
+		<Head_Type>1</Head_Type>
+		<Atlas>TeamHead2</Atlas>
+		<Atlas_Num>51</Atlas_Num>
+		<Used_Condition>0</Used_Condition>
+		<Account_Level>1</Account_Level>
+	</info>
+</HeadSelect>

@@ -1,0 +1,326 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<SkillCfg_leading xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <info un32ID="150001">
+    <szName>폭풍1</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>4100</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150002">
+    <szName>폭풍2</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>4100</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150003">
+    <szName>폭풍3</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>4100</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150004">
+    <szName>폭풍 최고급</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>4100</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150005">
+    <szName>그림자검 최고급</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>0</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>1</eTargetType>
+    <eLeadingTime>6000</eLeadingTime>
+    <eLeadingAction>skill3</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>1</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150006">
+    <szName>태풍1</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>10000</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Bianfu_Skill 2</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150007">
+    <szName>태풍2</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>10000</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Bianfu_Skill 2</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150008">
+    <szName>태풍3</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>10000</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Bianfu_Skill 2</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150009">
+    <szName>바람</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>10000</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Bianfu_Skill 2</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150010">
+    <szName>예리한 발톱1</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>3000</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Taiyushen_Skill 1</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>1</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150011">
+    <szName>예리한 발톱2</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>3000</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Taiyushen_Skill 1</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>1</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150012">
+    <szName>예리한 발톱3</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>3000</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Taiyushen_Skill 1</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>1</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150013">
+    <szName>예리한 발톱 최고급</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>4000</eLeadingTime>
+    <eLeadingAction>skill</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>Taiyushen_Skill 1</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>1</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150014">
+    <szName>칼벼락1</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>1800</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150015">
+    <szName>칼벼락2</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>1800</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150016">
+    <szName>칼벼락3</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>1800</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+  <info un32ID="150017">
+    <szName>칼벼락 최고급</szName>
+    <n32UseMP>0</n32UseMP>
+    <n32UseHP>0</n32UseHP>
+    <n32UseCP>0</n32UseCP>
+    <bIsCoolDown>1</bIsCoolDown>
+    <n32TriggerRate>1000</n32TriggerRate>
+    <bIfAffectBuilding>0</bIfAffectBuilding>
+    <bIfAffectHero>1</bIfAffectHero>
+    <bIfAffectMonster>1</bIfAffectMonster>
+    <eTargetType>2</eTargetType>
+    <eLeadingTime>3000</eLeadingTime>
+    <eLeadingAction>skill2</eLeadingAction>
+    <eLeadingEffect>0</eLeadingEffect>
+    <eLeadingSound>0</eLeadingSound>
+    <bIsCanMove>0</bIsCanMove>
+    <bIsCheckTargetSta>0</bIsCheckTargetSta>
+    <EventID>0</EventID>
+  </info>
+</SkillCfg_leading>

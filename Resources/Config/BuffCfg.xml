@@ -1,0 +1,737 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<BuffCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info un32ID="1001">
+		<szName>Poisoning</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>-15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>28</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>poison</szEffection>
+	</info>
+	<info un32ID="1002">
+		<szName>Burns</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>-15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>09</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>burning</szEffection>
+	</info>
+	<info un32ID="1003">
+		<szName>Treatment</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>6000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>2000</eEffect0EffectInterval>
+		<eEffect0Value>50</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>24</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1004">
+		<szName>Devil</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>4</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>06</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>magic_last</szEffection>
+	</info>
+	<info un32ID="1005">
+		<szName>Sacred blessing</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>2</n32ReplaceID>
+		<n32Effect0ID>10</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>500</eEffect0Rate>
+		<szEffectIcon>10</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>jiagong_buff</szEffection>
+	</info>
+	<info un32ID="1006">
+		<szName>Magic blessing</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>6</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>12</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>jiagong_buff</szEffection>
+	</info>
+	<info un32ID="1007">
+		<szName>Holy shield</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>7</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>15</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>jiafang_buff</szEffection>
+	</info>
+	<info un32ID="1008">
+		<szName>Magic shield</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>8</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>11</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>jiafang_buff</szEffection>
+	</info>
+	<info un32ID="1009">
+		<szName>Accelerate 1</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>3</n32ReplaceID>
+		<n32Effect0ID>9</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>1000</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>jiasu_yelang</szEffection>
+	</info>
+	<info un32ID="1010">
+		<szName>Passionate</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>10</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>jiagong_buff</szEffection>
+	</info>
+	<info un32ID="1011">
+		<szName>Vitality fruit</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>11</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>28</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1012">
+		<szName>Magic fruit</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>12</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>27</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>magic_last</szEffection>
+	</info>
+	<info un32ID="1013">
+		<szName>The source of life</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>13</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>24</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1014">
+		<szName>Magical source</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>14</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>12</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>magic_last</szEffection>
+	</info>
+	<info un32ID="1015">
+		<szName>Underworld blessing</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>15</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>0</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>06</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1016">
+		<szName>dizziness</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>16</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>25</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>stun</szEffection>
+	</info>
+	<info un32ID="1017">
+		<szName>silence</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>17</n32Effect0ID>
+		<eEffect0LastTick>4000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>26</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>chenmo</szEffection>
+	</info>
+	<info un32ID="1018">
+		<szName>Displacement</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>18</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>02</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>bingdong</szEffection>
+	</info>
+	<info un32ID="1019">
+		<szName>Rebound</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>19</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>11</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>bingdong</szEffection>
+	</info>
+	<info un32ID="1020">
+		<szName>Vampire</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>20</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>10</eEffect0Value>
+		<eEffect0Rate>100</eEffect0Rate>
+		<szEffectIcon>14</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1021">
+		<szName>Disarmed</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>21</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>01</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>chenmo</szEffection>
+	</info>
+	<info un32ID="1022">
+		<szName>Spider web binding</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>22</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>29</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>zhizhuwang</szEffection>
+	</info>
+	<info un32ID="1023">
+		<szName>freeze</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>16</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>07</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>bingdong</szEffection>
+	</info>
+	<info un32ID="1024">
+		<szName>Frozen</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>9</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>-2</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>16</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>icejiansu_buff</szEffection>
+	</info>
+	<info un32ID="1025">
+		<szName>bleed</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>-15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>05</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>diaoxue</szEffection>
+	</info>
+	<info un32ID="1026">
+		<szName>Hell yoke</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>22</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>3</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>02</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>JungleHP</szEffection>
+	</info>
+	<info un32ID="1027">
+		<szName>Extreme attack</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>5</n32Effect0ID>
+		<eEffect0LastTick>1000000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>10000</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>10</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>jiagong_buff</szEffection>
+	</info>
+	<info un32ID="1028">
+		<szName>Extreme defense</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>2</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>7</n32Effect0ID>
+		<eEffect0LastTick>1000000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>10000</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>15</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>jiafang_buff</szEffection>
+	</info>
+	<info un32ID="1029">
+		<szName>Life syrup</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>20000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>20</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>15</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>24</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1030">
+		<szName>Magic syrup</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>4</n32Effect0ID>
+		<eEffect0LastTick>20000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>20</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>4</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>06</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>magic_last</szEffection>
+	</info>
+	<info un32ID="1031">
+		<szName>Quick life potion</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>1000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>200</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>24</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>heal_last</szEffection>
+	</info>
+	<info un32ID="1032">
+		<szName>Quick magic potion</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>5</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>4</n32Effect0ID>
+		<eEffect0LastTick>1000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>60</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>06</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>magic_last</szEffection>
+	</info>
+	<info un32ID="1033">
+		<szName>Broken shield</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>1</n32ReplaceID>
+		<n32Effect0ID>7</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>-250</eEffect0Rate>
+		<szEffectIcon>12</szEffectIcon>
+		<szEffectSound>Devil</szEffectSound>
+		<szEffectDes>Astona</szEffectDes>
+		<szEffection>jianlan_chixu_buff</szEffection>
+	</info>
+	<info un32ID="1034">
+		<szName>venom</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>3</n32Effect0ID>
+		<eEffect0LastTick>3000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>3</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>5</eEffect0Value>
+		<eEffect0Rate>0</eEffect0Rate>
+		<szEffectIcon>28</szEffectIcon>
+		<szEffectSound>jiaxue</szEffectSound>
+		<szEffectDes>Master's Caesar</szEffectDes>
+		<szEffection>poison</szEffection>
+	</info>
+	<info un32ID="1035">
+		<szName>Sacred blessing 2</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>2</n32ReplaceID>
+		<n32Effect0ID>10</n32Effect0ID>
+		<eEffect0LastTick>7500</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>500</eEffect0Rate>
+		<szEffectIcon>10</szEffectIcon>
+	</info>
+	<info un32ID="1036">
+		<szName>Sacred blessing 3</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>2</n32ReplaceID>
+		<n32Effect0ID>10</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>500</eEffect0Rate>
+		<szEffectIcon>10</szEffectIcon>
+	</info>
+	<info un32ID="1037">
+		<szName>Accelerate 2</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>3</n32ReplaceID>
+		<n32Effect0ID>9</n32Effect0ID>
+		<eEffect0LastTick>7500</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>1000</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+	</info>
+	<info un32ID="1038">
+		<szName>Accelerate 3</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>3</n32ReplaceID>
+		<n32Effect0ID>9</n32Effect0ID>
+		<eEffect0LastTick>10000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>1000</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+	</info>
+	<info un32ID="1039">
+		<szName>Divine Blessing EX</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>2</n32ReplaceID>
+		<n32Effect0ID>10</n32Effect0ID>
+		<eEffect0LastTick>7500</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>700</eEffect0Rate>
+		<szEffectIcon>10</szEffectIcon>
+	</info>
+	<info un32ID="1040">
+		<szName>Accelerated EX</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>3</n32ReplaceID>
+		<n32Effect0ID>9</n32Effect0ID>
+		<eEffect0LastTick>1000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>1</eEffect0EffectTimes>
+		<eEffect0EffectInterval>0</eEffect0EffectInterval>
+		<eEffect0Value>0</eEffect0Value>
+		<eEffect0Rate>1000</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+	</info>
+	<info un32ID="1041">
+		<szName>Flying cherry dance</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>2</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>1000</eEffect0EffectInterval>
+		<eEffect0Value>50</eEffect0Value>
+		<eEffect0Rate>1000</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+		<szEffection>sakuraarea</szEffection>
+	</info>
+	<info un32ID="1042">
+		<szName>Flying cherry dance EX</szName>
+		<bIsSendMsg>1</bIsSendMsg>
+		<n32RepeatTimes>1</n32RepeatTimes>
+		<n32ReplaceID>0</n32ReplaceID>
+		<n32Effect0ID>2</n32Effect0ID>
+		<eEffect0LastTick>5000</eEffect0LastTick>
+		<eEffect0Trigger>1000</eEffect0Trigger>
+		<bEffect0ClearWhenDie>1</bEffect0ClearWhenDie>
+		<eEffect0EffectTimes>5</eEffect0EffectTimes>
+		<eEffect0EffectInterval>300</eEffect0EffectInterval>
+		<eEffect0Value>50</eEffect0Value>
+		<eEffect0Rate>1000</eEffect0Rate>
+		<szEffectIcon>04</szEffectIcon>
+		<szEffection>sakuraarea_ex</szEffection>
+	</info>
+</BuffCfg>

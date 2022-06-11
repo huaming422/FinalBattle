@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LowerGuide xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info Taskid="1001">
+		<Title>장비구입</Title>
+		<Event>1</Event>
+		<EventValue0>70,60,100</EventValue0>
+		<EventValue2>6</EventValue2>
+		<Content>CP점수가 충분할때[00d5ff]상점[-]에서 장비를 구입하시오！잘모르면[00d5ff]추천장비[-]를 구입하시오！</Content>
+		<CDTime>300000</CDTime>
+		<LimitTime>3</LimitTime>
+		<SmallTitle>장비구입</SmallTitle>
+		<PrefabID>LowerGuide1</PrefabID>
+		<PicID>1</PicID>
+	</info>
+	<info Taskid="1002">
+		<Title>CP획득</Title>
+		<Event>2</Event>
+		<Content>[00d5ff]졸병격파[-]하면 적은량의 CP를，[00d5ff]장수격파[-]하면 많은량의 CP를，[00d5ff]포탑격파[-]하면 전군의 CP가 상승한다！</Content>
+		<CDTime>180000</CDTime>
+		<LimitTime>3</LimitTime>
+		<SmallTitle>收益说明</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>2</PicID>
+	</info>
+	<info Taskid="1003">
+		<Title>远离防御塔</Title>
+		<Event>3</Event>
+		<Content>[00d5ff]졸병이 없을때[-]좋기는[00d5ff]포탑에서 물러나시오[-],약한 장수는 견디기 힘들다</Content>
+		<CDTime>60000</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>포탑설명</SmallTitle>
+		<PrefabID>LowerGuide1</PrefabID>
+		<PicID>4</PicID>
+	</info>
+	<info Taskid="1004">
+		<Title>분노폭발</Title>
+		<Event>4</Event>
+		<Content>장수가 분노할때 사진을 누르면 분노가 폭발하고 이때 특기가 더 세진다！</Content>
+		<CDTime>60000</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>분노설명</SmallTitle>
+		<PrefabID>LowerGuide1</PrefabID>
+		<PicID>2</PicID>
+	</info>
+	<info Taskid="1005">
+		<Title>령혼의 힘</Title>
+		<Event>5</Event>
+		<Content>령혼을 얻으면[00d5ff]장수의 속성이 상승할뿐아니라[00d5ff]새로운 특기도 얻게된다[-]！</Content>
+		<CDTime>60000</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>휴대품설명</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>3</PicID>
+	</info>
+	<info Taskid="1006">
+		<Title>다시부활</Title>
+		<Event>6</Event>
+		<Content>전사하면[00d5ff]일정한 시간이 지나[-]살아나는데，[00d5ff]장수등급이높을수록[-]그 시간은[00d5ff]길다[-]，비밀수정을 리용하면[00d5ff]즉시부활할수있다[-]，그러나[00d5ff]여러번 쓸수는 없다[-]</Content>
+		<CDTime>300000</CDTime>
+		<LimitTime>2</LimitTime>
+		<SmallTitle>다시부활</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>5</PicID>
+	</info>
+	<info Taskid="1007">
+		<Title>제단의식</Title>
+		<Event>7</Event>
+		<Content>얻은 령혼을[00d5ff]제단에 바치면[-]끝없이[00d5ff]졸병들을 만든다[-]，하지만 이때[00d5ff]자기는 령혼의 덕을 보지 못한다[-]</Content>
+		<CDTime>180000</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>제단리용안함</SmallTitle>
+		<PrefabID>LowerGuide1</PrefabID>
+		<PicID>3</PicID>
+	</info>
+	<info Taskid="1008">
+		<Title>특기설명</Title>
+		<Event>8</Event>
+		<EventValue1>6</EventValue1>
+		<Content>[00d5ff]특기단추를 오래누르면[-]특기성능을 볼수있고，장수등급이[00d5ff]6급에 도달하면[-]특기등급이 한급올라가며，[00d5ff]11급에 이르면[-]특기등급이 또한급 올라가므로 장수등급이 [00d5ff]6급이상[-]앞선장수를 보면 주의하라！</Content>
+		<CDTime>0</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>특기설명보기</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>6</PicID>
+	</info>
+	<info Taskid="1009">
+		<Title>령혼획득</Title>
+		<Event>8</Event>
+		<EventValue1>3</EventValue1>
+		<Content>장수가[00d5ff]3급에 이르면[00d5ff]령혼획득할수있으니[00d5ff]특기를 얻을 이 기회를 [-]놓치지 말라！</Content>
+		<CDTime>0</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>휴대품현시</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>3</PicID>
+	</info>
+	<info Taskid="1010">
+		<Title>거인병사</Title>
+		<Event>9</Event>
+		<EventValue1>107,108</EventValue1>
+		<Content>[00d5ff]상대편제단이 격파되면[00d5ff]거인병사들이[-]나오는데 이들은 보통병사와는 대비도 안되게 강하다！</Content>
+		<CDTime>0</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>거인병사표시</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>4</PicID>
+	</info>
+	<info Taskid="1011">
+		<Title>두개획득</Title>
+		<Event>8</Event>
+		<EventValue1>3</EventValue1>
+		<Content>장수가[00d5ff]7급에 이르면[00d5ff]두개의 령혼을 지닐수 있는데[-]，그만큼 특기는 더 세진다！</Content>
+		<CDTime>0</CDTime>
+		<LimitTime>0</LimitTime>
+		<SmallTitle>휴대품표시</SmallTitle>
+		<PrefabID>LowerGuide</PrefabID>
+		<PicID>1</PicID>
+	</info>
+</LowerGuide>

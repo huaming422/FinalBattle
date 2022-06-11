@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Title xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info id="9001">
+		<content>환영합니다！
+군사를 이끌어 적들을 무찌릅시다！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9002">
+		<content>장수를[CD0000]화살표방향[-]으로 이동시키시오！[-]</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9003">
+		<content>저런，전방에 적병출현
+즉시에 소멸하시오！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9004">
+		<content>다가가서[CD0000]공격단추[-]를
+눌러 목표를 정하시오！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9005">
+		<content>적이 멀리 있을때[CD0000]
+적을 직접선택[-]하시오[-]</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9006">
+		<content>병사들을 따라나가 
+적포탑을 까부시시오！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9007">
+		<content>적장을 격파하여 분노를 
+일으키면 특기가 세진다！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9008">
+		<content>장수의 사진을 눌러 
+분노를 야기시킬수 있다！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9009">
+		<content>적의 병영(제단)을 까부시고
+승리를 향하여！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9010">
+		<content>적본진을 까부시면 승리한다！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+	<info id="9011">
+		<content>목표를 정하고 왼쪽에 생기는
+단추를 누르면 혼을 빨수있다！</content>
+		<site>Guide/Captions_Camera2</site>
+		<place>60,250,0</place>
+	</info>
+</Title>

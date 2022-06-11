@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<DailyQuest xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info id="1001">
+		<type>1</type>
+		<grade>1</grade>
+		<describe>련속두명격파</describe>
+		<task>14</task>
+		<amount>3</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1002">
+		<type>1</type>
+		<grade>2</grade>
+		<describe>한번의 경기에서 20명 격파</describe>
+		<task>1</task>
+		<amount>20</amount>
+		<award>2</award>
+		<number>100</number>
+	</info>
+	<info id="1003">
+		<type>1</type>
+		<grade>3</grade>
+		<describe>한번의 경기에서 30명 격파</describe>
+		<task>1</task>
+		<amount>30</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1004">
+		<type>1</type>
+		<grade>4</grade>
+		<describe>한번의 경기에서 40명 격파</describe>
+		<task>1</task>
+		<amount>40</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1005">
+		<type>1</type>
+		<grade>1</grade>
+		<describe>두경기 승리</describe>
+		<task>6</task>
+		<amount>2</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1006">
+		<type>1</type>
+		<grade>2</grade>
+		<describe>오늘경기에서 80명격파</describe>
+		<task>2</task>
+		<amount>80</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1007">
+		<type>1</type>
+		<grade>3</grade>
+		<describe>오늘경기에서 100명격파</describe>
+		<task>2</task>
+		<amount>100</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1008">
+		<type>1</type>
+		<grade>4</grade>
+		<describe>오늘경기에서 120명격파</describe>
+		<task>2</task>
+		<amount>120</amount>
+		<award>1</award>
+		<number>100</number>
+	</info>
+	<info id="1009">
+		<type>1</type>
+		<grade>1</grade>
+		<describe>경기3번 진행</describe>
+		<task>5</task>
+		<amount>3</amount>
+		<npc>20010</npc>
+		<award>1</award>
+		<number>100</number>
+	</info>
+</DailyQuest>

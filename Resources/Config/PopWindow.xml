@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<PopWindow xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <info id="14001">
+    <content>
+      임무를 수행하였다，
+      적본진을 격파하면 상으로 금500점을 준다。
+    </content>
+    <site>Guide/Tips_Window</site>
+    <address>0,0,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14002">
+    <content>
+      임무1：
+      초기장비구입
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14003">
+    <content>
+      임무2：
+      적병격파
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14004">
+    <content>
+      임무3：
+      령혼빨기
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14005">
+    <content>
+      임무4：
+      제단에 령혼넣기
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14006">
+    <content>
+      임무5：
+      적포탑까기
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14007">
+    <content>
+      임무6：
+      적장수격파
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14008">
+    <content>
+      임무7：
+      적의제단까기
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+  <info id="14009">
+    <content>
+      임무8：
+      적본진함락
+    </content>
+    <site>Guide/Tips_Window2</site>
+    <address>308,-31,0</address>
+    <rate>0.9,0.9,0.9</rate>
+    <time>2</time>
+  </info>
+</PopWindow>

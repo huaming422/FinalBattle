@@ -1,0 +1,832 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HeroBuyCfg xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <info un32ID="100001">
+    <Name>flying cherry dance</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>2500</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10001</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110001</DefaultSkin>
+    <DefaultIcon>32</DefaultIcon>
+    <OnSaleSkins>111001,111002</OnSaleSkins>
+  </info>
+  <info un32ID="100002">
+    <Name>Broken sword</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10002</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110002</DefaultSkin>
+    <DefaultIcon>16</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100003">
+    <Name>Shadowful Phantom</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10003</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110003</DefaultSkin>
+    <DefaultIcon>12</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100004">
+    <Name>absolute zero</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10004</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110004</DefaultSkin>
+    <DefaultIcon>7</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100005">
+    <Name>annihilation flames</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10005</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110005</DefaultSkin>
+    <DefaultIcon>8</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100006">
+    <Name>meteor arrow</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10006</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110006</DefaultSkin>
+    <DefaultIcon>17</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100007">
+    <Name>highly toxic</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10007</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110007</DefaultSkin>
+    <DefaultIcon>19</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100008">
+    <Name>sprint of the teeth</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10008</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110008</DefaultSkin>
+    <DefaultIcon>28</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100009">
+    <Name>battle vanguard</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10009</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110009</DefaultSkin>
+    <DefaultIcon>23</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100010">
+    <Name>abyss of thorn</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>4600</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10010</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110010</DefaultSkin>
+    <DefaultIcon>14</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100011">
+    <Name>storm of the woman</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>7700</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10011</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110011</DefaultSkin>
+    <DefaultIcon>35</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100012">
+    <Name>purgatory messenger</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>23000</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10012</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110012</DefaultSkin>
+    <DefaultIcon>36</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100013">
+    <Name>cold hui of the feather</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>7700</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10013</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110013</DefaultSkin>
+    <DefaultIcon>37</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100014">
+    <Name>stone ax Ghost</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>7700</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10014</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110014</DefaultSkin>
+    <DefaultIcon>38</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100015">
+    <Name>retribution</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>7700</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10015</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110015</DefaultSkin>
+    <DefaultIcon>39</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100016">
+    <Name>cave bats</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>9200</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10016</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110016</DefaultSkin>
+    <DefaultIcon>40</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100017">
+    <Name>plague witch</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>9200</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10017</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110017</DefaultSkin>
+    <DefaultIcon>51</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100018">
+    <Name>somathetics</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>17300</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10018</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110018</DefaultSkin>
+    <DefaultIcon>47</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100019">
+    <Name>jail god</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>17300</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10019</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110019</DefaultSkin>
+    <DefaultIcon>49</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info>
+  </info>
+  <info un32ID="100021">
+    <Name>black magic</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>7700</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10021</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110021</DefaultSkin>
+    <DefaultIcon>42</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="100022">
+    <Name>magic magic blade</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1</un8ConsumeType>
+    <n32Price>13800</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>1</bIsShowInHeroInfo>
+    <UnlockHeroID>10022</UnlockHeroID>
+    <Time>-1</Time>
+    <DefaultSkin>110022</DefaultSkin>
+    <DefaultIcon>50</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info>
+  </info>
+  <info un32ID="101001">
+    <Name>flying cherry dance (3일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2500,250</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10001</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110001</DefaultSkin>
+    <DefaultIcon>32</DefaultIcon>
+    <OnSaleSkins>111001,111002</OnSaleSkins>
+  </info>
+  <info un32ID="101002">
+    <Name>Broken Sword (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10002</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110002</DefaultSkin>
+    <DefaultIcon>16</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101003">
+    <Name>Shadowful Phantom (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10003</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110003</DefaultSkin>
+    <DefaultIcon>12</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101004">
+    <Name>absolute zero (3일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10004</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110004</DefaultSkin>
+    <DefaultIcon>7</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101005">
+    <Name>annihilation flames (3일)</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10005</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110005</DefaultSkin>
+    <DefaultIcon>8</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101006">
+    <Name>meteor arrow (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10006</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110006</DefaultSkin>
+    <DefaultIcon>17</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101007">
+    <Name>highly toxic (3일)</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10007</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110007</DefaultSkin>
+    <DefaultIcon>19</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101008">
+    <Name>sprint of the teeth (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10008</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110008</DefaultSkin>
+    <DefaultIcon>28</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101009">
+    <Name>battle vanguard (3일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10009</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110009</DefaultSkin>
+    <DefaultIcon>23</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101010">
+    <Name>abyss of thorns (3일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>900,90</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10010</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110010</DefaultSkin>
+    <DefaultIcon>14</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101011">
+    <Name>폭풍녀무사 (3일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1100,110</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10011</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110011</DefaultSkin>
+    <DefaultIcon>35</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101012">
+    <Name>purgatory messenger (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1500,150</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10012</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110012</DefaultSkin>
+    <DefaultIcon>36</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101013">
+    <Name>cold hui of the feathers (3일)</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1100,110</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10013</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110013</DefaultSkin>
+    <DefaultIcon>37</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101014">
+    <Name>돌도끼장수 (3일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1500,150</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10014</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110014</DefaultSkin>
+    <DefaultIcon>38</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101015">
+    <Name>재판관 (3 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1100,110</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10015</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110015</DefaultSkin>
+    <DefaultIcon>39</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101016">
+    <Name>cave bats (3일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1100,110</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10016</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110016</DefaultSkin>
+    <DefaultIcon>40</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101017">
+    <Name>plague witch (3일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>900,90</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10017</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110017</DefaultSkin>
+    <DefaultIcon>51</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101018">
+    <Name>령혼무사 (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1100,110</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10018</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110018</DefaultSkin>
+    <DefaultIcon>47</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101019">
+    <Name>감옥파수병 (3일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1100,110</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10019</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110019</DefaultSkin>
+    <DefaultIcon>49</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info>
+  </info>
+  <info un32ID="101021">
+    <Name>black magic law (3일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1500,150</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10021</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110021</DefaultSkin>
+    <DefaultIcon>42</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="101022">
+    <Name>magic magic blade (3일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1500,150</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10022</UnlockHeroID>
+    <Time>72</Time>
+    <DefaultSkin>110022</DefaultSkin>
+    <DefaultIcon>50</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info>
+  </info>
+  <info un32ID="102001">
+    <Name>flying cherry dance (7 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2500,250</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10001</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110001</DefaultSkin>
+    <DefaultIcon>32</DefaultIcon>
+    <OnSaleSkins>111001,111002</OnSaleSkins>
+  </info>
+  <info un32ID="102002">
+    <Name>Broken Sword (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10002</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110002</DefaultSkin>
+    <DefaultIcon>16</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102003">
+    <Name>그림자장수 (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10003</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110003</DefaultSkin>
+    <DefaultIcon>12</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102004">
+    <Name>Absolute Zero (7 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10004</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110004</DefaultSkin>
+    <DefaultIcon>7</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102005">
+    <Name>annihilation flames (7 일)</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10005</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110005</DefaultSkin>
+    <DefaultIcon>8</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102006">
+    <Name>meteor arrow (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10006</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110006</DefaultSkin>
+    <DefaultIcon>17</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102007">
+    <Name>highly toxic (7 일)</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10007</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110007</DefaultSkin>
+    <DefaultIcon>19</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102008">
+    <Name>sprint of the teeth (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10008</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110008</DefaultSkin>
+    <DefaultIcon>28</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102009">
+    <Name>선봉장 (7 일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>0</un8ConsumeType>
+    <n32Price>0</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10009</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110009</DefaultSkin>
+    <DefaultIcon>23</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102010">
+    <Name>가시무사 (7 일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1800,180</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10010</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110010</DefaultSkin>
+    <DefaultIcon>14</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102011">
+    <Name>폭풍녀무사(7일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2250,225</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10011</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110011</DefaultSkin>
+    <DefaultIcon>35</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102012">
+    <Name>purgatory messenger (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>3000,300</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10012</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110012</DefaultSkin>
+    <DefaultIcon>36</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102013">
+    <Name>cold hui of the feather (7 일)</Name>
+    <HeroKind>3</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2250,225</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10013</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110013</DefaultSkin>
+    <DefaultIcon>37</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102014">
+    <Name>돌도끼장수 (7 일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>3000,300</n32Price>
+    <bIsShowInShop>0</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10014</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110014</DefaultSkin>
+    <DefaultIcon>38</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102015">
+    <Name>재판관 (7 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2250,225</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10015</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110015</DefaultSkin>
+    <DefaultIcon>39</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102016">
+    <Name>cave bats (7 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2250,225</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10016</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110016</DefaultSkin>
+    <DefaultIcon>40</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102017">
+    <Name>plague witch (7 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>1800,180</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10017</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110017</DefaultSkin>
+    <DefaultIcon>51</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102018">
+    <Name>령혼무사 (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2250,225</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10018</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110018</DefaultSkin>
+    <DefaultIcon>47</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102019">
+    <Name>감옥파수병 (7 일)</Name>
+    <HeroKind>4</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>2250,225</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10019</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110019</DefaultSkin>
+    <DefaultIcon>49</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info>
+  </info>
+  <info un32ID="102021">
+    <Name>black magic law (7 일)</Name>
+    <HeroKind>2</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>3000,300</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10021</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110021</DefaultSkin>
+    <DefaultIcon>42</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+  <info un32ID="102022">
+    <Name>magic magic blade (7 일)</Name>
+    <HeroKind>1</HeroKind>
+    <un8ConsumeType>1,2</un8ConsumeType>
+    <n32Price>3000,300</n32Price>
+    <bIsShowInShop>1</bIsShowInShop>
+    <bIsShowInHeroInfo>0</bIsShowInHeroInfo>
+    <UnlockHeroID>10022</UnlockHeroID>
+    <Time>168</Time>
+    <DefaultSkin>110022</DefaultSkin>
+    <DefaultIcon>50</DefaultIcon>
+    <OnSaleSkins>0</OnSaleSkins>
+  </info>
+</HeroBuyCfg>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<LoadingTips xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<info Num="1">
+		<Content>새가입자한테는 추천장비가 적합합니다</Content>
+	</info>
+	<info Num="2">
+		<Content> 매 장수에게는 피동특기가 있으니 잘 알고 리용하시오</Content>
+	</info>
+	<info Num="3">
+		<Content>화면구석에 주변에있는 장수의 사진이 나오는데 사진을 누르면 그장수를 목표로삼게된다</Content>
+	</info>
+	<info Num="4">
+		<Content>죽어서 소생하는 기간 장비들을 물색하시오</Content>
+	</info>
+	<info Num="5">
+		<Content> 장비의 힘축적시간이 경기승패를 좌우할수도 있다</Content>
+	</info>
+	<info Num="6">
+		<Content>한명의 장수는 전문 숲속괴물을 잡게 하시오</Content>
+	</info>
+	<info Num="7">
+		<Content>도구란에서 오래누르고 끌기하여 위치를 바꿀수있다</Content>
+	</info>
+	<info Num="8">
+		<Content>특기단추를 오래눌러 그 특기의 성능을 볼수있다</Content>
+	</info>
+	<info Num="9">
+		<Content>장수가 분노할때 사진을 누르면 분노가 폭발하고 이때 특기가 더 세진다</Content>
+	</info>
+	<info Num="10">
+		<Content>분노가 폭발할때 특기를 갱신할수있다</Content>
+	</info>
+	<info Num="11">
+		<Content>숲속괴물에게서 빨아들인 기는 특수한 특기를 발휘할수있고 무기성능을 높일수도 있다</Content>
+	</info>
+	<info Num="12">
+		<Content>숲속괴물에게서 빨아들인 기는 자기의 특기에 적합한것이여야 효과가 있다</Content>
+	</info>
+	<info Num="13">
+		<Content>팀구성이 승패를 좌우할수도 있으므로 장수선택을 잘해야한다</Content>
+	</info>
+	<info Num="14">
+		<Content>"즉시부활"을 리용하면 전투장으로 빨리 되돌아올수 있다</Content>
+	</info>
+	<info Num="15">
+		<Content>장수사진밑의 밑방향 화살단추를 눌러 전투통계를 볼수있다</Content>
+	</info>
+	<info Num="16">
+		<Content>매일 등록하면서 오락을 하면 여러가지 특혜를 받을수 있다</Content>
+	</info>
+	<info Num="17">
+		<Content>상대방의 본진을 까부셔야 승리한다</Content>
+	</info>
+	<info Num="18">
+		<Content>당신혼자 이 오락을 하는것이 아니니 될수록 팀경기를 하시오</Content>
+	</info>
+	<info Num="19">
+		<Content>화면이 떨리면 설정에서 특수효과를 줄이고 할수있다</Content>
+	</info>
+	<info Num="20">
+		<Content>사진주위를 도는 빛은 장수가 얻은 령혼의 개수를 나타낸다</Content>
+	</info>
+</LoadingTips>
